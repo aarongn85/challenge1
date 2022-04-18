@@ -1,5 +1,4 @@
 # challenge1
-<h1>Coding challenge</h1>
 
 <h2>Install dependencies</h2>
 npm i react<br>
