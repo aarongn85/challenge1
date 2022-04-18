@@ -1,0 +1,10 @@
+.member-display { background-color:rgb(255, 253, 253); padding:20px 0 42px; }
+.member-display .page-header {margin-left: 24px; }
+.member-display .result-string span { font-weight:bold;}
+.member-display a.member-card { text-align:center; padding: 0 8px 24px; }
+.member-display a.member-card:hover img,
+.member-display a.member-card:focus img { border-color:#eeab2f; }
+.member-display a.member-card:hover,
+.member-display a.member-card:focus { color:#000; }
+.member-display img { border-radius:50%; border:4px solid #bebebe; }
+.member-cards { margin-top:42px; --bs-gutter-x: 0!important; }
