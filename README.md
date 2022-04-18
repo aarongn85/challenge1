@@ -1,7 +1,7 @@
 # challenge1
 <h1>Coding challenge</h1>
 
-<h2>Install dependencies</h2> <br><br>
+<h2>Install dependencies</h2>
 npm i react<br>
 npm i react-dom<br>
 npm i react-redux<br>
