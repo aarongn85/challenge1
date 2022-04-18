@@ -1,11 +1,11 @@
 # challenge1
 Coding challenge
 
-Dependencies: 
-npm i react / 
-npm i react-dom /
-npm i react-redux /
-npm i react-router-dom /
-npm i redux-devtools-extension /
-npm i redux-logger /
-npm i redux-thunk
+Install dependencies: <br>
+npm i react<br>
+npm i react-dom<br>
+npm i react-redux<br>
+npm i react-router-dom<br>
+npm i redux-devtools-extension<br>
+npm i redux-logger<br>
+npm i redux-thunk<br>
